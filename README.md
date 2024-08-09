@@ -23,14 +23,51 @@ To vote on a paper for next week please visit this link:
 <b> Abstract: </b> Using data from the Current Population Survey, this paper describes the effect of the Marie1Boatlift of 1980on the Miami labor market. The Marie1 immigrants increased the Miami labor force by 7%, and the percentage increase in labor supply to less-skilled occupations and industries was even greater because most of the immigrants were relatively unskilled. Nevertheless, the Marie1 influx appears to have had virtually no effect on the wages or unemployment rates of less-skilled workers, even among Cubans who had immigrated earlier. The author suggests that the ability of Miami's labor market to rapidly absorb the Marie1 immigrants was largely owing to its adjustment to other lar
 
 
+#### <a href= "https://arxiv.org/pdf/2403.18694"> Designing Simple Mechanisms </a>
+##### Shengwu Li
+
+<b> Abstract: </b> Which mechanisms are simple to play? When is it easy for participants to see that a mechanism is incentive-compatible? I will start by explaining how and why economists came to ask these questions. Then I will discuss three recent answers, that capture different aspects of what makes a mechanism simple.
+
+#### <a href= "http://www.math.huji.ac.il/raumann/pdf/Agreeing%20to%20Disagree.pdf"> Agree to Disagree </a>
+##### Robert J. Aumann
+
+<b> Abstract: </b> Two people, 1 and 2, are said to have common knowledge of an event E if both know it, 1 knows that 2 knows it, 2 knows that 1 knows is, 1 knows that 2 knows that 1 knows it, and so on. THEOREM. If two people have the same priors, and their posteriors for an event A are common knowledge, then these posteriors are equal.
+
 
 ## Previous Papers:
 
-#### <a href = "https://pricetheory.uchicago.edu/levitt/Papers/JacobLevitt2003.pdf">ROTTEN APPLES: AN INVESTIGATION OF THE PREVALENCE AND PREDICTORS OF TEACHER CHEATING</a> 
-##### BRIAN A. JACOB AND STEVEN D. LEVITT
+#### <a href = "https://pricetheory.uchicago.edu/levitt/Papers/JacobLevitt2003.pdf">Rotten Apples: An Investigation of the Prevalence and Predictors of Teacher Cheating</a> 
+##### Brian A. Jacob and Steven D. Levitt
 
 <b> Abstract: </b> We develop an algorithm for detecting teacher cheating that combines information on unexpected test score fluctuations and suspicious patterns of answers for students in a classroom. Using data from the Chicago public schools, we estimate that serious cases of teacher or administrator cheating on standardized tests occur in a minimum of 4–5 percent of elementary school classrooms annually. The observed frequency of cheating appears to respond strongly to relatively minor changes in incentives. Our results highlight the fact that high-powered incentive systems, especially those with bright line rules, may induce unexpected behavioral distortions such as cheating. Statistical analysis, however, may provide a means of detecting illicit acts, despite the best attempts of perpetrators to keep them clandestine.
 
-#### Suggestions of More Technical Papers
+## Suggestions of More Technical Papers:
+
+#### <a href= "https://www.eecs.harvard.edu/cs286r/courses/spring07/papers/myerson.pdf"> Optimal Auction Design </a>
+##### Roger B. Myerson
+
+<b> Abstract: </b> This paper considers the problem faced by a seller who has a singie object to sell to one of several possible buyers, when the seller has imperfect information about how much the buyers might be willing to pay for the object. The seller's problem is to design an auction game which has a Nash equilibrium giving him the highest possible expected utility. Optimal auctions are derived in this paper for a wide class of auction design problems.
+
+
+#### <a href= "https://www.cs.princeton.edu/courses/archive/spr08/cos444/papers/myerson_satterthwaite83.pdf"> Efficient Mechanisms for Bilateral Trading </a>
+##### Roger B. Myerson and Mark A. Satterthwaite
+
+<b> Abstract: </b> We consider bargaining problems between one buyer and one seller for a single object. The seller’s valuation and the buyer’s valuation for the object are assumed to be independent random variables, and each individual’s valuation is unknown to the other. We characterize the set of allocation mechanisms that are Bayesian incentive compatible and individually rational, and show the general impossibility of ex post efficient mechanisms without outside subsidies. For a wide class of problems we show how to compute mechanisms that maximize expected total gains from trade, and mechanisms that can maximize a broker’s expected profit.
+
+
+#### <a href= "https://www.brown.edu/Departments/Economics/Faculty/Glenn_Loury/louryhomepage/teaching/Ec%20237/Crawford%20and%20Sobel%20(Ecta%201982).pdf"> Strategic Information Transmission </a>
+##### Vincent P. Crawford AND Joel Sobel
+
+<b> Abstract: </b> This paper develops a model of strategic communication, in which a better-informed Sender (S) sends a possibly noisy signal to a Receiver (R), who then takes an action that determines the welfare of both. We characterize the set of Bayesian Nash equilibria under standard assumptions, and show that equilibrium signaling always takes a strikingly simple form, in which S partitions the support of the (scalar) variable that represents his private information and introduces noise into his signal by reporting, in effect, only which element of the partition his observation actually lies in. We show under further assumptions that before S observes his private information, the equilibrium whose partition has the greatest number of elements is Pareto-superior to all other equilibria, and that if agents coordinate on this equilibrium, R's equilibrium expected utility rises when agents' preferences become more similar. Since R bases his choice of action on rational expectations, this establishes a sense in which equilibrium signaling is more informative when agents' preferences are more similar.
+
+
+
+#### <a href= "https://www.brown.edu/Departments/Economics/Faculty/Glenn_Loury/louryhomepage/teaching/Ec%20237/Crawford%20and%20Sobel%20(Ecta%201982).pdf](https://nicolapersico.com/files/roes7406.pdf"> Committee Design with Endogenous Information </a>
+##### Nicola Persico
+
+<b> Abstract: </b> Identical agents gather costly information, and then aggregate it through voting. Because information is a public good, information is underprovided relative to the social optimum. A “good” voting rule must give incentives to acquire information, as well as aggregate information efficiently. A voting rule that requires a large plurality (in the extreme, unanimity) to upset the status quo can be optimal only if the information available to each agent is sufficiently accurate. This result is independent of the preferences of voters and of the cost of information.
+
+
+
 
 
