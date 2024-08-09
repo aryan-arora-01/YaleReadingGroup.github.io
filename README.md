@@ -56,10 +56,9 @@ To vote on a paper for next week please visit this link:
 
 
 #### <a href= "https://www.brown.edu/Departments/Economics/Faculty/Glenn_Loury/louryhomepage/teaching/Ec%20237/Crawford%20and%20Sobel%20(Ecta%201982).pdf"> Strategic Information Transmission </a>
-##### Vincent P. Crawford AND Joel Sobel
+##### Vincent P. Crawford and Joel Sobel
 
 <b> Abstract: </b> This paper develops a model of strategic communication, in which a better-informed Sender (S) sends a possibly noisy signal to a Receiver (R), who then takes an action that determines the welfare of both. We characterize the set of Bayesian Nash equilibria under standard assumptions, and show that equilibrium signaling always takes a strikingly simple form, in which S partitions the support of the (scalar) variable that represents his private information and introduces noise into his signal by reporting, in effect, only which element of the partition his observation actually lies in. We show under further assumptions that before S observes his private information, the equilibrium whose partition has the greatest number of elements is Pareto-superior to all other equilibria, and that if agents coordinate on this equilibrium, R's equilibrium expected utility rises when agents' preferences become more similar. Since R bases his choice of action on rational expectations, this establishes a sense in which equilibrium signaling is more informative when agents' preferences are more similar.
-
 
 
 #### <a href= "https://www.brown.edu/Departments/Economics/Faculty/Glenn_Loury/louryhomepage/teaching/Ec%20237/Crawford%20and%20Sobel%20(Ecta%201982).pdf](https://nicolapersico.com/files/roes7406.pdf"> Committee Design with Endogenous Information </a>
@@ -67,6 +66,10 @@ To vote on a paper for next week please visit this link:
 
 <b> Abstract: </b> Identical agents gather costly information, and then aggregate it through voting. Because information is a public good, information is underprovided relative to the social optimum. A “good” voting rule must give incentives to acquire information, as well as aggregate information efficiently. A voting rule that requires a large plurality (in the extreme, unanimity) to upset the status quo can be optimal only if the information available to each agent is sufficiently accurate. This result is independent of the preferences of voters and of the cost of information.
 
+#### <a href= "https://www.brown.edu/Departments/Economics/Faculty/Glenn_Loury/louryhomepage/teaching/Ec%20237/Crawford%20and%20Sobel%20(Ecta%201982).pdf"> Renegotiation Design with Unverifiable Information </a>
+#####  Philippe Aghion, Mathias Dewatripoint, and Patrick Rey
+
+<b> Abstract: </b> This paper considers a buyer-seller relationship with observable but unverifiable investments and/or random utility parameters. In such situations, it is known that contract renegotiation may prevent the implementation of first-best outcomes. In this paper, we show however that efficient investments and optimal risk-sharing can typically be achieved provided the initial contract is able to monitor the ex post renegotiation process. Specifically, we focus on the following two features of renegotiation design. First, default options in case renegotiation breaks down; second, the allocation of all bargaining power to either contracting party. Moreover, we show that these two features can be obtained in standard Rubinstein bargaining games through contractual provisions, such as specific-performance clauses and penalties for delay (or, equivalently, financial "hostages" refundable without interest)
 
 
 
