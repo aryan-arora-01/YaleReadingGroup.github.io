@@ -44,7 +44,7 @@ based on seniority. This paper studies the effects of a reform that gave school 
 <b> Abstract: </b> Does new media promote accountability in nondemocratic countries, where offline media is often suppressed? We show that blog posts, which exposed corruption in Russian state-controlled companies, had
 a negative causal impact on their market returns. For identification, we exploit the precise timing of blog posts by looking at within-day results with company-day fixed effects. Furthermore, we show that the posts are ultimately associated with higher management turnover and less minority shareholder conflicts. Taken together, our results suggest that social media can discipline corruption even in a country with limited political competition and heavily censored traditional media. 
 
-#### <a href= "https://pubs.aeaweb.org/doi/pdfplus/10.1257/app.20160089"> Letting Old Data Speak: Local Cultural Traits in Qing Dynasty China Grain Prices
+#### <a href= "https://pubs.aeaweb.org/doi/pdfplus/10.1257/app.20160089"> Letting Old Data Speak: Local Cultural Traits in Qing Dynasty China Grain Prices </a>
 ##### T. Terry Cheung, Shaowen Luo, Kwok Ping Tsang
 
 <b> Abstract: </b> We investigate the persistent impact of data misreporting from China’s Qing Dynasty
@@ -53,6 +53,33 @@ collected monthly by Qing prefectural officials and reported to the central gove
 absence of seasonal price fluctuations over extended periods as an indicator, we assess data quality.
 Employing an instrumental variable approach, we establish a causal link between data quality in the
 Qing Dynasty and data misreporting in modern China. Our findings indicate that a one-standarddeviation increase in Qing data quality corresponds to a 0.16 standard deviation increase in modern data quality. This result holds under various alternative specifications, even when the analysis is limited to frequently traded major crop types from the Qing Dynasty and when different periods of modern data quality are used. Moreover, we find that the persistence of data misreporting remains evident even in prefectures that have undergone significant changes in geographical attributes. We further suggest that this persistent pattern of data misreporting is primarily influenced by cultural factors rather than geographical ones.
+
+#### <a href= "https://journals.sagepub.com/doi/10.1177/1527002517717299"> The Effects of Physical Activity on Social Interactions: The Case of Trust and Trustworthiness </a>
+##### Giovanni Di Bartolomeo and Stefano Papa
+
+<b> Abstract: </b> There is no doubt that physical activity improves health conditions; however, does it also affect the way people interact? Beyond the obvious effects related to team games, we wonder whether physical activity has in itself some effect on social behavior. Our research focuses on the potential effects of physical activity on trust and trustworthiness. Specifically, we compare the choices of subjects playing an investment game who were previously exposed to short-time physical activity to others who are not exposed to it, but involved in different simple tasks. On average, we find that subjects exposed to physical activity exhibit more trust and prosocial behaviors than those who are not exposed. These effects are not temporary.
+
+#### <a href= "https://onlinelibrary.wiley.com/doi/full/10.1111/j.1468-0289.2009.00483.x#fn1"> Girl power: the European marriage pattern and labour markets in the North Sea region in the late medieval and early modern period </a>
+##### Tine De Moor and Jan Luiten Van Zanden
+
+<b> Abstract: </b> This article argues that the European Marriage Pattern (EMP) has played a fundamental role in western Europe’s economic development. The EMP emerged in north-western Europe in the late medieval period as a result of the preaching of the Catholic Church promoting marriage based on consensus, the rise of labour markets, and specific institutions concerning property transfers between generations that encouraged wage labour by women. It resulted in a demographic regime embedded in a highly commercial environment, in which households interacted frequently with labour, capital, and commodity markets.We also discuss possible long-term consequences for human capital formation and institution building.
+
+#### <a href= "https://www.aeaweb.org/articles?id=10.1257/jep.32.1.3"> The Economic Implications of Housing Supply </a>
+##### Edward Glaeser and Joseph Gyourko
+
+<b> Abstract: </b> In this essay, we review the basic economics of housing supply and the functioning of US housing markets to better understand the distribution of home prices, household wealth, and the spatial distribution of people across markets. We employ a cost-based approach to gauge whether a housing market is delivering appropriately priced units. Specifically, we investigate whether market prices (roughly) equal the costs of producing the housing unit. If so, the market is well-functioning in the sense that it efficiently delivers housing units at their production cost. The gap between price and production cost can be understood as a regulatory tax. The available evidence suggests, but does not definitively prove, that the implicit tax on development created by housing regulations is higher in many areas than any reasonable negative externalities associated with new construction. We discuss two main effects of developments in housing prices: on patterns of household wealth and on the incentives for relocation to high-wage, high-productivity areas. Finally, we turn to policy implications.
+
+#### <a href= "https://www.aeaweb.org/articles?id=10.1257/aer.20181289"> The Effects of Rent Control Expansion on Tenants, Landlords, and Inequality: Evidence from San Francisco </a>
+##### Rebecca Diamond, Tim McQuade, and Franklin Qian
+
+<b> Abstract: </b> Using a 1994 law change, we exploit quasi-experimental variation in the assignment of rent control in San Francisco to study its impacts on tenants and landlords. Leveraging new data tracking individuals' migration, we find rent control limits renters' mobility by 20 percent and lowers displacement from San Francisco. Landlords treated by rent control reduce rental housing supplies by 15 percent by selling to owner-occupants and redeveloping buildings. Thus, while rent control prevents displacement of incumbent renters in the short run, the lost rental housing supply likely drove up market rents in the long run, ultimately undermining the goals of the law.
+
+#### <a href= "https://economics.mit.edu/sites/default/files/2022-08/Subsidizing%20Health%20Insurance%20for%20Low-Income%20Adults.pdf"> Subsidizing Health Insurance for Low-Income Adults: Evidence from Massachusetts </a>
+#####  Amy Finkelstein, Nathaniel Hendren, and Mark Shepard
+
+<b> Abstract: </b> How much are low-income individuals willing to pay for health insurance, and what are the implications for insurance markets? Using administrative data from Massachusetts’ subsidized insurance
+exchange, we exploit discontinuities in the subsidy schedule to estimate willingness to pay and costs of insurance among low-income adults. As subsidies decline, insurance take-up falls rapidly, dropping about 25 percent for each $40 increase in monthly enrollee premiums. Marginal enrollees tend to be lower-cost, indicating adverse selection into insurance. But across the entire distribution we can observe (approximately the bottom 70 percent of the willingness to pay distribution) enrollees’ willingness to pay is always less than
+half of their own expected costs that they impose on the insurer. As a result, we estimate that take-up will be highly incomplete even with generous subsidies. If enrollee premiums were 25 percent of insurers’ average costs, at most half of potential enrollees would buy insurance; even premiums subsidized to 10 percent of average costs would still leave at least 20 percent uninsured. We briefly consider potential explanations for these findings and their normative implications
 
 ## Previous Papers:
 
