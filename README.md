@@ -22,7 +22,6 @@ To vote on a paper for next week please visit this link:
 
 <b> Abstract: </b> Using data from the Current Population Survey, this paper describes the effect of the Marie1Boatlift of 1980on the Miami labor market. The Marie1 immigrants increased the Miami labor force by 7%, and the percentage increase in labor supply to less-skilled occupations and industries was even greater because most of the immigrants were relatively unskilled. Nevertheless, the Marie1 influx appears to have had virtually no effect on the wages or unemployment rates of less-skilled workers, even among Cubans who had immigrated earlier. The author suggests that the ability of Miami's labor market to rapidly absorb the Marie1 immigrants was largely owing to its adjustment to other lar
 
-
 #### <a href= "https://arxiv.org/pdf/2403.18694"> Designing Simple Mechanisms </a>
 ##### Shengwu Li
 
@@ -33,6 +32,27 @@ To vote on a paper for next week please visit this link:
 
 <b> Abstract: </b> Two people, 1 and 2, are said to have common knowledge of an event E if both know it, 1 knows that 2 knows it, 2 knows that 1 knows is, 1 knows that 2 knows that 1 knows it, and so on. THEOREM. If two people have the same priors, and their posteriors for an event A are common knowledge, then these posteriors are equal.
 
+#### <a href= "https://pubs.aeaweb.org/doi/pdfplus/10.1257/pol.20200295"> The Labor Market for Teachers under Different Pay Schemes </a>
+##### Barbara Biasi
+
+<b> Abstract: </b> Compensation of most US public school teachers is rigid and solely
+based on seniority. This paper studies the effects of a reform that gave school districts in Wisconsin full autonomy to redesign teacher pay schemes. Following the reform some districts switched to flexible compensation. Using the expiration of preexisting collective bargaining agreements as a source of exogenous variation in the timing of changes in pay, I show that the introduction of flexible pay raised salaries of high-quality teachers, increased teacher quality (due to the arrival of high-quality teachers from other districts and increased effort), and improved student achievement.
+
+#### <a href= "https://pubs.aeaweb.org/doi/pdfplus/10.1257/app.20160089"> Social Media and Corruption </a>
+##### Ruben Enikolopov, Maria Petrova, and Konstantin Sonin
+
+<b> Abstract: </b> Does new media promote accountability in nondemocratic countries, where offline media is often suppressed? We show that blog posts, which exposed corruption in Russian state-controlled companies, had
+a negative causal impact on their market returns. For identification, we exploit the precise timing of blog posts by looking at within-day results with company-day fixed effects. Furthermore, we show that the posts are ultimately associated with higher management turnover and less minority shareholder conflicts. Taken together, our results suggest that social media can discipline corruption even in a country with limited political competition and heavily censored traditional media. 
+
+#### <a href= "https://pubs.aeaweb.org/doi/pdfplus/10.1257/app.20160089"> Letting Old Data Speak: Local Cultural Traits in Qing Dynasty China Grain Prices
+##### T. Terry Cheung, Shaowen Luo, Kwok Ping Tsang
+
+<b> Abstract: </b> We investigate the persistent impact of data misreporting from China’s Qing Dynasty
+(1644-1912) on contemporary data quality in the country. We examine historical grain price data,
+collected monthly by Qing prefectural officials and reported to the central government. Using the
+absence of seasonal price fluctuations over extended periods as an indicator, we assess data quality.
+Employing an instrumental variable approach, we establish a causal link between data quality in the
+Qing Dynasty and data misreporting in modern China. Our findings indicate that a one-standarddeviation increase in Qing data quality corresponds to a 0.16 standard deviation increase in modern data quality. This result holds under various alternative specifications, even when the analysis is limited to frequently traded major crop types from the Qing Dynasty and when different periods of modern data quality are used. Moreover, we find that the persistence of data misreporting remains evident even in prefectures that have undergone significant changes in geographical attributes. We further suggest that this persistent pattern of data misreporting is primarily influenced by cultural factors rather than geographical ones.
 
 ## Previous Papers:
 
@@ -84,24 +104,24 @@ games in which the designer can only commit to short-term mechanisms. We identif
 Bayes’ plausibility constraints the mechanisms must satisfy.
 
 #### <a href= "https://ipl.econ.duke.edu/seminars/system/files/seminars/1090.pdf"> Uninsured Idiosyncratic Risk and Aggregate Saving </a>
-#####  : S. Rao Aiyagari 
+##### S. Rao Aiyagari 
 
 <b> Abstract: </b> We present a qualitative and quantitative analysis of the standard growth model modified to include precautionary saving motives and liquidity constraints. We address the impact on the aggregate saving rate, the importance of asset trading to individuals, and the relative inequality of wealth and income distributions.
 
 #### <a href= "https://pages.stern.nyu.edu/~xgabaix/papers/granular.pdf"> The Granular Origins of Aggregate Fluctuations </a>
-#####  : Xavier Gabaix 
+##### Xavier Gabaix 
 
 <b> Abstract: </b> This paper proposes that idiosyncratic firm-level shocks can explain an important
 part of aggregate movements and provide a microfoundation for aggregate shocks. Existing research has focused on using aggregate shocks to explain business cycles, arguing that individual firm shocks average out in the aggregate. I show that this argument breaks down if the distribution of firm sizes is fat-tailed, as documented empirically. The idiosyncratic movements of the largest 100 firms in the United States appear to explain about one-third of variations in output growth. This “granular” hypothesis suggests new directions for macroeconomic research, in particular that macroeconomic questions can be clarified by looking at the behavior of large firms. This paper’s ideas and analytical results may also be useful for thinking about the fluctuations of other
 economic aggregates, such as exports or the trade balance
 
 #### <a href= "https://www-users.york.ac.uk/~psm509/ULB2012/KiyotakiMooreJPE1997.pdf"> Credit Cycles </a>
-#####  : Nobuhiro Kiyotaki and John Moore
+##### Nobuhiro Kiyotaki and John Moore
 
 <b> Abstract: </b> We construct a model of a dynamic economy in which lenders cannot force borrowers to repay their debts unless the debts are secured. In such an economy, durable assets play a dual role: not only are they factors of production, but they also serve as collateral for loans. The dynamic interaction between credit limits and asset prices turns out to be a powerful transmission mechanism by which the effects of shocks persist, amplify, and spill over to other sectors. We show that small, temporary shocks to technology or income distribution can generate large, persistent fluctuations in output and asset prices.
 
 #### <a href= "https://arxiv.org/pdf/1712.04802"> Fisher-schultz Lecture: Generic Machine Learning Inference On Heterogenous Treatment Effects In Randomized Experiments, With An Application To Immunization In India </a>
-#####  : Victor Chernozhukov, Mert Demirer, Esther Duflo, and Ivan Fernandez-val 
+##### Victor Chernozhukov, Mert Demirer, Esther Duflo, and Ivan Fernandez-val 
 
 <b> Abstract: </b> We propose strategies to estimate and make inference on key features of heterogeneous
 effects in randomized experiments. These key features include best linear predictors of the effects
@@ -121,7 +141,7 @@ and causal learners with a randomized field experiment that evaluates a combinat
 stimulate demand for immunization in India
 
 #### <a href= "https://watermark.silverchair.com/ectj00c1.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAA0wwggNIBgkqhkiG9w0BBwagggM5MIIDNQIBADCCAy4GCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMVTRdphOh9lhki8IWAgEQgIIC_5BfSRHz8C8Ahu9jzEhkhsGmR16Bx15SMN39wb106S0VCxtBXVum1YdKUfWSRuVQc11n880LlGJfLmHybDwcIwOXwJJA6gaUi6jG1X1kCBIqBZ3fvkzyq-B8_FfrPALVLdBEplZRj_y-oL1STE40xCwv_dBal3mAhLMIPw1Epj6Fh4DdciioGtbmz-1WzOp8_JKqjnOVBvrB6bqMxLSfL0Pu9jRHmxvmAjFb4P94zwDflXFpccJT-pLV6lU9J-BDh7a-yeXHFb36m0t3qslOtQkCYF7MPb-z4ZPjdXprsz0GmCxNtkVRn9GbItWW1yQC4d2HxjpXlljSWb8kvEWGekgHVSPVfZmSXjkN7jZKsHKxDnyl9Hl-l9SNDGoD-Hy-mGJsR2Zss28dort5FL3CEAI4wqYwjAd1vY2MeU7sX1u04cWm3skH5Yfn3DOhL61jLrYfjQ_qdZzLpYNsDCazkqUQWUcpPvy00rZfCG6sa57LWKdlrQxwuoQp0CK6s7xv_5azplLTigYuKz7cANFbxRIedeeFoNvyFtYAxStAbz6dv96ALynOOrNXytcESJxM2zCYjPF8LzYdOkwWwO3OYRRV1hfTRGXMgf2fshldcbAr8LqFDXUecvF-vv453IUbDjexhDNM_CQ4tzr0EeVcbwIQ1xG7ei5RNem4gf9-0Jopp2Cz8S-2ngmajeDUAvGMq12yhqOHgMB8rPQRB0Cwm2Y3JHvtFWuOkZsQbkAMdHjlazVfeLxszngnp9eKy83CTnNS3CLVZQblmazFUFRECNsQ1NersNNXPXK-C6KAxz8z_Zv7Wrj40ZNRc5kc8tJmFrgB6nW3I6LW4_iwLdP520qXpGU1rmjdawn7VwXqucJdT_GO6pwoi7Cgi85ndlzCOKz8Rfx2Qjy-QgIKvj68gC92WvsT9tUK_XkkYDmv-CXUYirdCMFJtSm7b2igIiIiKNb3NqBAkdOtR-IYq5cGmjcfRnoW_HGuwOzoLusoTfFVNfDEeJVn7MugxkA9Uiub"> Double/debiased machine learning for treatment and structural parameters </a>
-#####  : Victor Chernozhukov, Denis Chetverikov, Mert Demirer, Esther Duflo, Christian Hansen, Whitney Newey, and James Robins 
+##### Victor Chernozhukov, Denis Chetverikov, Mert Demirer, Esther Duflo, Christian Hansen, Whitney Newey, and James Robins 
 
 <b> Abstract: </b> We revisit the classic semi-parametric problem of inference on a low-dimensional
 parameter θ0 in the presence of high-dimensional nuisance parameters η0. We depart from the
@@ -152,7 +172,7 @@ partially linear instrumental variables model; DML applied to learn the average 
 effect and the average treatment effect on the treated under unconfoundedness; DML applied to learn the local average treatment effect in an instrumental variables setting. In addition to these theoretical applications, we also illustrate the use of DML in three empirical examples.
 
 #### <a href= "https://openaccess.nhh.no/nhh-xmlui/bitstream/handle/11250/2652016/0120.pdf?sequence=1"> The Triple Difference Estimator </a>
-#####  : Andreas Olden and Jarle Moen
+##### Andreas Olden and Jarle Moen
 <b> Abstract: </b> Triple difference has become a widely used estimator in empirical work. A close reading
 of articles in top economics journals reveals that the use of the estimator to a large
 extent rests on intuition. The identifying assumptions are neither formally derived nor
