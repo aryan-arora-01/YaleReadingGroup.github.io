@@ -8,6 +8,11 @@ To vote on a paper for next week please visit this link: <a href="https://forms.
 
 ## Current Paper:
 
+#### <a href= "https://davidcard.berkeley.edu/papers/mariel-impact.pdf">The Impact of the Mariel Boatlift on the Miami Labor Market</a>
+##### David Card
+
+<b> Abstract: </b> Using data from the Current Population Survey, this paper describes the effect of the Marie1Boatlift of 1980on the Miami labor market. The Marie1 immigrants increased the Miami labor force by 7%, and the percentage increase in labor supply to less-skilled occupations and industries was even greater because most of the immigrants were relatively unskilled. Nevertheless, the Marie1 influx appears to have had virtually no effect on the wages or unemployment rates of less-skilled workers, even among Cubans who had immigrated earlier. The author suggests that the ability of Miami's labor market to rapidly absorb the Marie1 immigrants was largely owing to its adjustment to other large waves of immigrants in the two decades before the Marie1 Boatlift. 
+
 ## Upcoming Papers:
 
 ## Proposed Papers:
@@ -16,11 +21,6 @@ To vote on a paper for next week please visit this link: <a href="https://forms.
 ##### Emir Kamenica and Matthew Gentzkow
 
 <b> Abstract: </b> When is it possible for one person to persuade another to change her action? We consider a symmetric information model where a sender chooses a signal to reveal to a receiver, who then takes a noncon- tractible action that affects the welfare of both players. We derive necessary and sufficient conditions for the existence of a signal that strictly benefits the sender. We characterize sender-optimal signals. We examine comparative statics with respect to the alignment of the sender’s and the receiver’s preferences. Finally, we apply our results to persuasion by litigators, lobbyists, and salespeople.
-
-#### <a href= "https://davidcard.berkeley.edu/papers/mariel-impact.pdf">The Impact of the Mariel Boatlift on the Miami Labor Market</a>
-##### David Card
-
-<b> Abstract: </b> Using data from the Current Population Survey, this paper describes the effect of the Marie1Boatlift of 1980on the Miami labor market. The Marie1 immigrants increased the Miami labor force by 7%, and the percentage increase in labor supply to less-skilled occupations and industries was even greater because most of the immigrants were relatively unskilled. Nevertheless, the Marie1 influx appears to have had virtually no effect on the wages or unemployment rates of less-skilled workers, even among Cubans who had immigrated earlier. The author suggests that the ability of Miami's labor market to rapidly absorb the Marie1 immigrants was largely owing to its adjustment to other lar
 
 #### <a href= "https://arxiv.org/pdf/2403.18694"> Designing Simple Mechanisms </a>
 ##### Shengwu Li
