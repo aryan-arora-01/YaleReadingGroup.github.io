@@ -15,12 +15,18 @@ To vote on a paper for next week please visit this link: <a href="https://forms.
 
 ## Upcoming Papers:
 
-## Proposed Papers:
-
 #### <a href="https://web.stanford.edu/~gentzkow/research/BayesianPersuasion.pdf">Bayesian Persuasion</a>
 ##### Emir Kamenica and Matthew Gentzkow
 
 <b> Abstract: </b> When is it possible for one person to persuade another to change her action? We consider a symmetric information model where a sender chooses a signal to reveal to a receiver, who then takes a noncon- tractible action that affects the welfare of both players. We derive necessary and sufficient conditions for the existence of a signal that strictly benefits the sender. We characterize sender-optimal signals. We examine comparative statics with respect to the alignment of the sender’s and the receiver’s preferences. Finally, we apply our results to persuasion by litigators, lobbyists, and salespeople.
+
+#### <a href= "https://pubs.aeaweb.org/doi/pdfplus/10.1257/pol.20200295"> The Labor Market for Teachers under Different Pay Schemes </a>
+##### Barbara Biasi
+
+<b> Abstract: </b> Compensation of most US public school teachers is rigid and solely
+based on seniority. This paper studies the effects of a reform that gave school districts in Wisconsin full autonomy to redesign teacher pay schemes. Following the reform some districts switched to flexible compensation. Using the expiration of preexisting collective bargaining agreements as a source of exogenous variation in the timing of changes in pay, I show that the introduction of flexible pay raised salaries of high-quality teachers, increased teacher quality (due to the arrival of high-quality teachers from other districts and increased effort), and improved student achievement.
+
+## Proposed Papers:
 
 #### <a href= "https://arxiv.org/pdf/2403.18694"> Designing Simple Mechanisms </a>
 ##### Shengwu Li
@@ -31,12 +37,6 @@ To vote on a paper for next week please visit this link: <a href="https://forms.
 ##### Robert J. Aumann
 
 <b> Abstract: </b> Two people, 1 and 2, are said to have common knowledge of an event E if both know it, 1 knows that 2 knows it, 2 knows that 1 knows is, 1 knows that 2 knows that 1 knows it, and so on. THEOREM. If two people have the same priors, and their posteriors for an event A are common knowledge, then these posteriors are equal.
-
-#### <a href= "https://pubs.aeaweb.org/doi/pdfplus/10.1257/pol.20200295"> The Labor Market for Teachers under Different Pay Schemes </a>
-##### Barbara Biasi
-
-<b> Abstract: </b> Compensation of most US public school teachers is rigid and solely
-based on seniority. This paper studies the effects of a reform that gave school districts in Wisconsin full autonomy to redesign teacher pay schemes. Following the reform some districts switched to flexible compensation. Using the expiration of preexisting collective bargaining agreements as a source of exogenous variation in the timing of changes in pay, I show that the introduction of flexible pay raised salaries of high-quality teachers, increased teacher quality (due to the arrival of high-quality teachers from other districts and increased effort), and improved student achievement.
 
 #### <a href= "https://pubs.aeaweb.org/doi/pdfplus/10.1257/app.20160089"> Social Media and Corruption </a>
 ##### Ruben Enikolopov, Maria Petrova, and Konstantin Sonin
