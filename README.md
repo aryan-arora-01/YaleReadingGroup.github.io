@@ -90,12 +90,6 @@ a negative causal impact on their market returns. For identification, we exploit
 <b> Abstract: </b> Does new media promote accountability in nondemocratic countries, where offline media is often suppressed? We show that blog posts, which exposed corruption in Russian state-controlled companies, had
 a negative causal impact on their market returns. For identification, we exploit the precise timing of blog posts by looking at within-day results with company-day fixed effects. Furthermore, we show that the posts are ultimately associated with higher management turnover and less minority shareholder conflicts. Taken together, our results suggest that social media can discipline corruption even in a country with limited political competition and heavily censored traditional media. 
 
-
-#### <a href= "https://journals.sagepub.com/doi/10.1177/1527002517717299"> The Effects of Physical Activity on Social Interactions: The Case of Trust and Trustworthiness </a>
-##### Giovanni Di Bartolomeo and Stefano Papa
-
-<b> Abstract: </b> There is no doubt that physical activity improves health conditions; however, does it also affect the way people interact? Beyond the obvious effects related to team games, we wonder whether physical activity has in itself some effect on social behavior. Our research focuses on the potential effects of physical activity on trust and trustworthiness. Specifically, we compare the choices of subjects playing an investment game who were previously exposed to short-time physical activity to others who are not exposed to it, but involved in different simple tasks. On average, we find that subjects exposed to physical activity exhibit more trust and prosocial behaviors than those who are not exposed. These effects are not temporary.
-
 #### <a href= "https://economics.mit.edu/sites/default/files/2022-08/Subsidizing%20Health%20Insurance%20for%20Low-Income%20Adults.pdf"> Subsidizing Health Insurance for Low-Income Adults: Evidence from Massachusetts </a>
 #####  Amy Finkelstein, Nathaniel Hendren, and Mark Shepard
 
@@ -214,3 +208,8 @@ Qing Dynasty and data misreporting in modern China. Our findings indicate that a
 ##### Edward Glaeser and Joseph Gyourko
 
 <b> Abstract: </b> In this essay, we review the basic economics of housing supply and the functioning of US housing markets to better understand the distribution of home prices, household wealth, and the spatial distribution of people across markets. We employ a cost-based approach to gauge whether a housing market is delivering appropriately priced units. Specifically, we investigate whether market prices (roughly) equal the costs of producing the housing unit. If so, the market is well-functioning in the sense that it efficiently delivers housing units at their production cost. The gap between price and production cost can be understood as a regulatory tax. The available evidence suggests, but does not definitively prove, that the implicit tax on development created by housing regulations is higher in many areas than any reasonable negative externalities associated with new construction. We discuss two main effects of developments in housing prices: on patterns of household wealth and on the incentives for relocation to high-wage, high-productivity areas. Finally, we turn to policy implications.
+
+#### <a href= "https://journals.sagepub.com/doi/10.1177/1527002517717299"> The Effects of Physical Activity on Social Interactions: The Case of Trust and Trustworthiness </a>
+##### Giovanni Di Bartolomeo and Stefano Papa
+
+<b> Abstract: </b> There is no doubt that physical activity improves health conditions; however, does it also affect the way people interact? Beyond the obvious effects related to team games, we wonder whether physical activity has in itself some effect on social behavior. Our research focuses on the potential effects of physical activity on trust and trustworthiness. Specifically, we compare the choices of subjects playing an investment game who were previously exposed to short-time physical activity to others who are not exposed to it, but involved in different simple tasks. On average, we find that subjects exposed to physical activity exhibit more trust and prosocial behaviors than those who are not exposed. These effects are not temporary.
