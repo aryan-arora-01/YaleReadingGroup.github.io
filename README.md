@@ -8,23 +8,23 @@ To vote on a paper for next week please visit this link: <a href="https://forms.
 
 ## Current Paper:
 
-#### <a href= "https://davidcard.berkeley.edu/papers/mariel-impact.pdf">The Impact of the Mariel Boatlift on the Miami Labor Market</a>
-##### David Card
-
-<b> Abstract: </b> Using data from the Current Population Survey, this paper describes the effect of the Marie1Boatlift of 1980on the Miami labor market. The Marie1 immigrants increased the Miami labor force by 7%, and the percentage increase in labor supply to less-skilled occupations and industries was even greater because most of the immigrants were relatively unskilled. Nevertheless, the Marie1 influx appears to have had virtually no effect on the wages or unemployment rates of less-skilled workers, even among Cubans who had immigrated earlier. The author suggests that the ability of Miami's labor market to rapidly absorb the Marie1 immigrants was largely owing to its adjustment to other large waves of immigrants in the two decades before the Marie1 Boatlift. 
-
-## Upcoming Papers:
-
 #### <a href="https://web.stanford.edu/~gentzkow/research/BayesianPersuasion.pdf">Bayesian Persuasion</a>
 ##### Emir Kamenica and Matthew Gentzkow
 
 <b> Abstract: </b> When is it possible for one person to persuade another to change her action? We consider a symmetric information model where a sender chooses a signal to reveal to a receiver, who then takes a noncon- tractible action that affects the welfare of both players. We derive necessary and sufficient conditions for the existence of a signal that strictly benefits the sender. We characterize sender-optimal signals. We examine comparative statics with respect to the alignment of the sender’s and the receiver’s preferences. Finally, we apply our results to persuasion by litigators, lobbyists, and salespeople.
+
+## Upcoming Papers:
 
 #### <a href= "https://pubs.aeaweb.org/doi/pdfplus/10.1257/pol.20200295"> The Labor Market for Teachers under Different Pay Schemes </a>
 ##### Barbara Biasi
 
 <b> Abstract: </b> Compensation of most US public school teachers is rigid and solely
 based on seniority. This paper studies the effects of a reform that gave school districts in Wisconsin full autonomy to redesign teacher pay schemes. Following the reform some districts switched to flexible compensation. Using the expiration of preexisting collective bargaining agreements as a source of exogenous variation in the timing of changes in pay, I show that the introduction of flexible pay raised salaries of high-quality teachers, increased teacher quality (due to the arrival of high-quality teachers from other districts and increased effort), and improved student achievement.
+
+#### <a href= "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4507597"> Conviction, Incarceration, and Recidivism: Understanding the Revolving Door </a>
+##### John Eric Humphries, Winnie van Dijk, Aurelie Ouss, Kamelia Stavreva, and Megan Stevenson
+
+<b> Abstract: </b> We study the effects of conviction and incarceration on recidivism using quasi-random judge assignment. We extend the typical binary-treatment framework to a setting with multiple treatments, and outline a set of assumptions under which standard 2SLS regressions recover causal and margin-specific treatment effects. Under these assumptions, 2SLS regressions applied to data on felony cases in Virginia imply that conviction leads to a large and long-lasting increase in recidivism relative to dismissal, consistent with a criminogenic effect of a criminal record. In contrast, incarceration reduces recidivism, but only in the short run. The assumptions we outline could be considered restrictive in the random judge framework, ruling out some reasonable models of judge decision-making. Indeed, a key assumption is empirically rejected in our data. Nevertheless, after deriving an expression for the resulting asymptotic bias, we argue that the failure of this assumption is unlikely to overturn our qualitative conclusions. Finally, we propose and implement alternative identification strategies. Consistent with our characterization of the bias, these analyses yield estimates qualitatively similar to those based on the 2SLS estimates. Taken together, our results suggest that conviction is an important and potentially overlooked driver of recidivism, while incarceration mainly has shorter-term incapacitation effects.
 
 ## Proposed Papers:
 
@@ -44,35 +44,11 @@ based on seniority. This paper studies the effects of a reform that gave school 
 <b> Abstract: </b> Does new media promote accountability in nondemocratic countries, where offline media is often suppressed? We show that blog posts, which exposed corruption in Russian state-controlled companies, had
 a negative causal impact on their market returns. For identification, we exploit the precise timing of blog posts by looking at within-day results with company-day fixed effects. Furthermore, we show that the posts are ultimately associated with higher management turnover and less minority shareholder conflicts. Taken together, our results suggest that social media can discipline corruption even in a country with limited political competition and heavily censored traditional media. 
 
-#### <a href= "https://pubs.aeaweb.org/doi/pdfplus/10.1257/app.20160089"> Letting Old Data Speak: Local Cultural Traits in Qing Dynasty China Grain Prices </a>
-##### T. Terry Cheung, Shaowen Luo, Kwok Ping Tsang
-
-<b> Abstract: </b> We investigate the persistent impact of data misreporting from China’s Qing Dynasty
-(1644-1912) on contemporary data quality in the country. We examine historical grain price data,
-collected monthly by Qing prefectural officials and reported to the central government. Using the
-absence of seasonal price fluctuations over extended periods as an indicator, we assess data quality.
-Employing an instrumental variable approach, we establish a causal link between data quality in the
-Qing Dynasty and data misreporting in modern China. Our findings indicate that a one-standarddeviation increase in Qing data quality corresponds to a 0.16 standard deviation increase in modern data quality. This result holds under various alternative specifications, even when the analysis is limited to frequently traded major crop types from the Qing Dynasty and when different periods of modern data quality are used. Moreover, we find that the persistence of data misreporting remains evident even in prefectures that have undergone significant changes in geographical attributes. We further suggest that this persistent pattern of data misreporting is primarily influenced by cultural factors rather than geographical ones.
 
 #### <a href= "https://journals.sagepub.com/doi/10.1177/1527002517717299"> The Effects of Physical Activity on Social Interactions: The Case of Trust and Trustworthiness </a>
 ##### Giovanni Di Bartolomeo and Stefano Papa
 
 <b> Abstract: </b> There is no doubt that physical activity improves health conditions; however, does it also affect the way people interact? Beyond the obvious effects related to team games, we wonder whether physical activity has in itself some effect on social behavior. Our research focuses on the potential effects of physical activity on trust and trustworthiness. Specifically, we compare the choices of subjects playing an investment game who were previously exposed to short-time physical activity to others who are not exposed to it, but involved in different simple tasks. On average, we find that subjects exposed to physical activity exhibit more trust and prosocial behaviors than those who are not exposed. These effects are not temporary.
-
-#### <a href= "https://onlinelibrary.wiley.com/doi/full/10.1111/j.1468-0289.2009.00483.x#fn1"> Girl power: the European marriage pattern and labour markets in the North Sea region in the late medieval and early modern period </a>
-##### Tine De Moor and Jan Luiten Van Zanden
-
-<b> Abstract: </b> This article argues that the European Marriage Pattern (EMP) has played a fundamental role in western Europe’s economic development. The EMP emerged in north-western Europe in the late medieval period as a result of the preaching of the Catholic Church promoting marriage based on consensus, the rise of labour markets, and specific institutions concerning property transfers between generations that encouraged wage labour by women. It resulted in a demographic regime embedded in a highly commercial environment, in which households interacted frequently with labour, capital, and commodity markets.We also discuss possible long-term consequences for human capital formation and institution building.
-
-#### <a href= "https://www.aeaweb.org/articles?id=10.1257/jep.32.1.3"> The Economic Implications of Housing Supply </a>
-##### Edward Glaeser and Joseph Gyourko
-
-<b> Abstract: </b> In this essay, we review the basic economics of housing supply and the functioning of US housing markets to better understand the distribution of home prices, household wealth, and the spatial distribution of people across markets. We employ a cost-based approach to gauge whether a housing market is delivering appropriately priced units. Specifically, we investigate whether market prices (roughly) equal the costs of producing the housing unit. If so, the market is well-functioning in the sense that it efficiently delivers housing units at their production cost. The gap between price and production cost can be understood as a regulatory tax. The available evidence suggests, but does not definitively prove, that the implicit tax on development created by housing regulations is higher in many areas than any reasonable negative externalities associated with new construction. We discuss two main effects of developments in housing prices: on patterns of household wealth and on the incentives for relocation to high-wage, high-productivity areas. Finally, we turn to policy implications.
-
-#### <a href= "https://www.aeaweb.org/articles?id=10.1257/aer.20181289"> The Effects of Rent Control Expansion on Tenants, Landlords, and Inequality: Evidence from San Francisco </a>
-##### Rebecca Diamond, Tim McQuade, and Franklin Qian
-
-<b> Abstract: </b> Using a 1994 law change, we exploit quasi-experimental variation in the assignment of rent control in San Francisco to study its impacts on tenants and landlords. Leveraging new data tracking individuals' migration, we find rent control limits renters' mobility by 20 percent and lowers displacement from San Francisco. Landlords treated by rent control reduce rental housing supplies by 15 percent by selling to owner-occupants and redeveloping buildings. Thus, while rent control prevents displacement of incumbent renters in the short run, the lost rental housing supply likely drove up market rents in the long run, ultimately undermining the goals of the law.
 
 #### <a href= "https://economics.mit.edu/sites/default/files/2022-08/Subsidizing%20Health%20Insurance%20for%20Low-Income%20Adults.pdf"> Subsidizing Health Insurance for Low-Income Adults: Evidence from Massachusetts </a>
 #####  Amy Finkelstein, Nathaniel Hendren, and Mark Shepard
@@ -82,6 +58,16 @@ exchange, we exploit discontinuities in the subsidy schedule to estimate willing
 half of their own expected costs that they impose on the insurer. As a result, we estimate that take-up will be highly incomplete even with generous subsidies. If enrollee premiums were 25 percent of insurers’ average costs, at most half of potential enrollees would buy insurance; even premiums subsidized to 10 percent of average costs would still leave at least 20 percent uninsured. We briefly consider potential explanations for these findings and their normative implications
 
 ## Previous Papers:
+
+#### <a href= "https://www.aeaweb.org/articles?id=10.1257/aer.20181289"> The Effects of Rent Control Expansion on Tenants, Landlords, and Inequality: Evidence from San Francisco </a>
+##### Rebecca Diamond, Tim McQuade, and Franklin Qian
+
+<b> Abstract: </b> Using a 1994 law change, we exploit quasi-experimental variation in the assignment of rent control in San Francisco to study its impacts on tenants and landlords. Leveraging new data tracking individuals' migration, we find rent control limits renters' mobility by 20 percent and lowers displacement from San Francisco. Landlords treated by rent control reduce rental housing supplies by 15 percent by selling to owner-occupants and redeveloping buildings. Thus, while rent control prevents displacement of incumbent renters in the short run, the lost rental housing supply likely drove up market rents in the long run, ultimately undermining the goals of the law.
+
+#### <a href= "https://davidcard.berkeley.edu/papers/mariel-impact.pdf">The Impact of the Mariel Boatlift on the Miami Labor Market</a>
+##### David Card
+
+<b> Abstract: </b> Using data from the Current Population Survey, this paper describes the effect of the Marie1Boatlift of 1980on the Miami labor market. The Marie1 immigrants increased the Miami labor force by 7%, and the percentage increase in labor supply to less-skilled occupations and industries was even greater because most of the immigrants were relatively unskilled. Nevertheless, the Marie1 influx appears to have had virtually no effect on the wages or unemployment rates of less-skilled workers, even among Cubans who had immigrated earlier. The author suggests that the ability of Miami's labor market to rapidly absorb the Marie1 immigrants was largely owing to its adjustment to other large waves of immigrants in the two decades before the Marie1 Boatlift. 
 
 #### <a href = "https://pricetheory.uchicago.edu/levitt/Papers/JacobLevitt2003.pdf">Rotten Apples: An Investigation of the Prevalence and Predictors of Teacher Cheating</a> 
 ##### Brian A. Jacob and Steven D. Levitt
@@ -150,61 +136,35 @@ economic aggregates, such as exports or the trade balance
 #### <a href= "https://arxiv.org/pdf/1712.04802"> Fisher-schultz Lecture: Generic Machine Learning Inference On Heterogenous Treatment Effects In Randomized Experiments, With An Application To Immunization In India </a>
 ##### Victor Chernozhukov, Mert Demirer, Esther Duflo, and Ivan Fernandez-val 
 
-<b> Abstract: </b> We propose strategies to estimate and make inference on key features of heterogeneous
-effects in randomized experiments. These key features include best linear predictors of the effects
-using machine learning proxies, average effects sorted by impact groups, and average characteristics of most and least impacted units. The approach is valid in high dimensional settings, where
-the effects are proxied (but not necessarily consistently estimated) by predictive and causal machine
-learning methods. We post-process these proxies into estimates of the key features. Our approach
-is generic, it can be used in conjunction with penalized methods, neural networks, random forests,
-boosted trees, and ensemble methods, both predictive and causal. Estimation and inference are based
-on repeated data splitting to avoid overfitting and achieve validity. We use quantile aggregation of
-the results across many potential splits, in particular taking medians of p-values and medians and
-other quantiles of confidence intervals. We show that quantile aggregation lowers estimation risks
-over a single split procedure, and establish its principal inferential properties. Finally, our analysis
-reveals ways to build provably better machine learning proxies through causal learning: we can use
-the objective functions that we develop to construct the best linear predictors of the effects, to obtain
-better machine learning proxies in the initial step. We illustrate the use of both inferential tools
-and causal learners with a randomized field experiment that evaluates a combination of nudges to
-stimulate demand for immunization in India
+<b> Abstract: </b> We propose strategies to estimate and make inference on key features of heterogeneous effects in randomized experiments. These key features include best linear predictors of the effects using machine learning proxies, average effects sorted by impact groups, and average characteristics of most and least impacted units. The approach is valid in high dimensional settings, where the effects are proxied (but not necessarily consistently estimated) by predictive and causal machine learning methods. We post-process these proxies into estimates of the key features. Our approach is generic, it can be used in conjunction with penalized methods, neural networks, random forests, boosted trees, and ensemble methods, both predictive and causal. Estimation and inference are based on repeated data splitting to avoid overfitting and achieve validity. We use quantile aggregation of the results across many potential splits, in particular taking medians of p-values and medians and other quantiles of confidence intervals. We show that quantile aggregation lowers estimation risks over a single split procedure, and establish its principal inferential properties. Finally, our analysis reveals ways to build provably better machine learning proxies through causal learning: we can use the objective functions that we develop to construct the best linear predictors of the effects, to obtain better machine learning proxies in the initial step. We illustrate the use of both inferential tools and causal learners with a randomized field experiment that evaluates a combination of nudges to stimulate demand for immunization in India
 
 #### <a href= "https://watermark.silverchair.com/ectj00c1.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAA0wwggNIBgkqhkiG9w0BBwagggM5MIIDNQIBADCCAy4GCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMVTRdphOh9lhki8IWAgEQgIIC_5BfSRHz8C8Ahu9jzEhkhsGmR16Bx15SMN39wb106S0VCxtBXVum1YdKUfWSRuVQc11n880LlGJfLmHybDwcIwOXwJJA6gaUi6jG1X1kCBIqBZ3fvkzyq-B8_FfrPALVLdBEplZRj_y-oL1STE40xCwv_dBal3mAhLMIPw1Epj6Fh4DdciioGtbmz-1WzOp8_JKqjnOVBvrB6bqMxLSfL0Pu9jRHmxvmAjFb4P94zwDflXFpccJT-pLV6lU9J-BDh7a-yeXHFb36m0t3qslOtQkCYF7MPb-z4ZPjdXprsz0GmCxNtkVRn9GbItWW1yQC4d2HxjpXlljSWb8kvEWGekgHVSPVfZmSXjkN7jZKsHKxDnyl9Hl-l9SNDGoD-Hy-mGJsR2Zss28dort5FL3CEAI4wqYwjAd1vY2MeU7sX1u04cWm3skH5Yfn3DOhL61jLrYfjQ_qdZzLpYNsDCazkqUQWUcpPvy00rZfCG6sa57LWKdlrQxwuoQp0CK6s7xv_5azplLTigYuKz7cANFbxRIedeeFoNvyFtYAxStAbz6dv96ALynOOrNXytcESJxM2zCYjPF8LzYdOkwWwO3OYRRV1hfTRGXMgf2fshldcbAr8LqFDXUecvF-vv453IUbDjexhDNM_CQ4tzr0EeVcbwIQ1xG7ei5RNem4gf9-0Jopp2Cz8S-2ngmajeDUAvGMq12yhqOHgMB8rPQRB0Cwm2Y3JHvtFWuOkZsQbkAMdHjlazVfeLxszngnp9eKy83CTnNS3CLVZQblmazFUFRECNsQ1NersNNXPXK-C6KAxz8z_Zv7Wrj40ZNRc5kc8tJmFrgB6nW3I6LW4_iwLdP520qXpGU1rmjdawn7VwXqucJdT_GO6pwoi7Cgi85ndlzCOKz8Rfx2Qjy-QgIKvj68gC92WvsT9tUK_XkkYDmv-CXUYirdCMFJtSm7b2igIiIiKNb3NqBAkdOtR-IYq5cGmjcfRnoW_HGuwOzoLusoTfFVNfDEeJVn7MugxkA9Uiub"> Double/debiased machine learning for treatment and structural parameters </a>
 ##### Victor Chernozhukov, Denis Chetverikov, Mert Demirer, Esther Duflo, Christian Hansen, Whitney Newey, and James Robins 
 
-<b> Abstract: </b> We revisit the classic semi-parametric problem of inference on a low-dimensional
-parameter θ0 in the presence of high-dimensional nuisance parameters η0. We depart from the
-classical setting by allowing for η0 to be so high-dimensional that the traditional assumptions
-(e.g. Donsker properties) that limit complexity of the parameter space for this object break
-down. To estimate η0, we consider the use of statistical or machine learning (ML) methods,
-which are particularly well suited to estimation in modern, very high-dimensional cases.
-ML methods perform well by employing regularization to reduce variance and trading
-off regularization bias with overfitting in practice. However, both regularization bias and
-overfitting in estimating η0 cause a heavy bias in estimators of θ0 that are obtained by
-naively plugging ML estimators of η0 into estimating equations for θ0. This bias results in
-the naive estimator failing to be N−1/2 consistent, where N is the sample size. We show that
-the impact of regularization bias and overfitting on estimation of the parameter of interest θ0
-can be removed by using two simple, yet critical, ingredients: (1) using Neyman-orthogonal
-moments/scores that have reduced sensitivity with respect to nuisance parameters to estimate
-θ0; (2) making use of cross-fitting, which provides an efficient form of data-splitting. We
-call the resulting set of methods double or debiased ML (DML). We verify that DML
-delivers point estimators that concentrate in an N−1/2-neighbourhood of the true parameter
-values and are approximately unbiased and normally distributed, which allows construction
-of valid confidence statements. The generic statistical theory of DML is elementary and
-simultaneously relies on only weak theoretical requirements, which will admit the use of a
-broad array of modern ML methods for estimating the nuisance parameters, such as random
-forests, lasso, ridge, deep neural nets, boosted trees, and various hybrids and ensembles of
-these methods. We illustrate the general theory by applying it to provide theoretical properties
-of the following: DML applied to learn the main regression parameter in a partially linear
-regression model; DML applied to learn the coefficient on an endogenous variable in a
-partially linear instrumental variables model; DML applied to learn the average treatment
-effect and the average treatment effect on the treated under unconfoundedness; DML applied to learn the local average treatment effect in an instrumental variables setting. In addition to these theoretical applications, we also illustrate the use of DML in three empirical examples.
+<b> Abstract: </b> We revisit the classic semi-parametric problem of inference on a low-dimensional parameter θ0 in the presence of high-dimensional nuisance parameters η0. We depart from the classical setting by allowing for η0 to be so high-dimensional that the traditional assumptions (e.g. Donsker properties) that limit complexity of the parameter space for this object break down. To estimate η0, we consider the use of statistical or machine learning (ML) methods, which are particularly well suited to estimation in modern, very high-dimensional cases. ML methods perform well by employing regularization to reduce variance and trading off regularization bias with overfitting in practice. However, both regularization bias and overfitting in estimating η0 cause a heavy bias in estimators of θ0 that are obtained by naively plugging ML estimators of η0 into estimating equations for θ0. This bias results in the naive estimator failing to be N−1/2 consistent, where N is the sample size. We show that the impact of regularization bias and overfitting on estimation of the parameter of interest θ0 can be removed by using two simple, yet critical, ingredients: (1) using Neyman-orthogonal moments/scores that have reduced sensitivity with respect to nuisance parameters to estimate θ0; (2) making use of cross-fitting, which provides an efficient form of data-splitting. We call the resulting set of methods double or debiased ML (DML). We verify that DML delivers point estimators that concentrate in an N−1/2-neighbourhood of the true parameter values and are approximately unbiased and normally distributed, which allows construction of valid confidence statements. The generic statistical theory of DML is elementary and simultaneously relies on only weak theoretical requirements, which will admit the use of a broad array of modern ML methods for estimating the nuisance parameters, such as random forests, lasso, ridge, deep neural nets, boosted trees, and various hybrids and ensembles of these methods. We illustrate the general theory by applying it to provide theoretical properties of the following: DML applied to learn the main regression parameter in a partially linear regression model; DML applied to learn the coefficient on an endogenous variable in a partially linear instrumental variables model; DML applied to learn the average treatment effect and the average treatment effect on the treated under unconfoundedness; DML applied to learn the local average treatment effect in an instrumental variables setting. In addition to these theoretical applications, we also illustrate the use of DML in three empirical examples.
 
 #### <a href= "https://openaccess.nhh.no/nhh-xmlui/bitstream/handle/11250/2652016/0120.pdf?sequence=1"> The Triple Difference Estimator </a>
 ##### Andreas Olden and Jarle Moen
-<b> Abstract: </b> Triple difference has become a widely used estimator in empirical work. A close reading
-of articles in top economics journals reveals that the use of the estimator to a large
-extent rests on intuition. The identifying assumptions are neither formally derived nor
-generally agreed on. We give a complete presentation of the triple difference estimator,
-and show that even though the estimator can be computed as the difference between two
-difference-in-differences estimators, it does not require two parallel trend assumptions
-to have a causal interpretation. The reason is that the difference between two biased
-difference-in-differences estimators will be unbiased as long as the bias is the
+<b> Abstract: </b> Triple difference has become a widely used estimator in empirical work. A close reading of articles in top economics journals reveals that the use of the estimator to a large extent rests on intuition. The identifying assumptions are neither formally derived nor generally agreed on. We give a complete presentation of the triple difference estimator, and show that even though the estimator can be computed as the difference between two difference-in-differences estimators, it does not require two parallel trend assumptions to have a causal interpretation. The reason is that the difference between two biased difference-in-differences estimators will be unbiased as long as the bias is the same in both estimators. This requires only one parallel trend assumption to hold.
+
+## Paper Graveyard:
+
+#### <a href= "https://pubs.aeaweb.org/doi/pdfplus/10.1257/app.20160089"> Letting Old Data Speak: Local Cultural Traits in Qing Dynasty China Grain Prices </a>
+##### T. Terry Cheung, Shaowen Luo, Kwok Ping Tsang
+
+<b> Abstract: </b> We investigate the persistent impact of data misreporting from China’s Qing Dynasty
+(1644-1912) on contemporary data quality in the country. We examine historical grain price data,
+collected monthly by Qing prefectural officials and reported to the central government. Using the
+absence of seasonal price fluctuations over extended periods as an indicator, we assess data quality.
+Employing an instrumental variable approach, we establish a causal link between data quality in the
+Qing Dynasty and data misreporting in modern China. Our findings indicate that a one-standarddeviation increase in Qing data quality corresponds to a 0.16 standard deviation increase in modern data quality. This result holds under various alternative specifications, even when the analysis is limited to frequently traded major crop types from the Qing Dynasty and when different periods of modern data quality are used. Moreover, we find that the persistence of data misreporting remains evident even in prefectures that have undergone significant changes in geographical attributes. We further suggest that this persistent pattern of data misreporting is primarily influenced by cultural factors rather than geographical ones.
+
+#### <a href= "https://onlinelibrary.wiley.com/doi/full/10.1111/j.1468-0289.2009.00483.x#fn1"> Girl power: the European marriage pattern and labour markets in the North Sea region in the late medieval and early modern period </a>
+##### Tine De Moor and Jan Luiten Van Zanden
+
+<b> Abstract: </b> This article argues that the European Marriage Pattern (EMP) has played a fundamental role in western Europe’s economic development. The EMP emerged in north-western Europe in the late medieval period as a result of the preaching of the Catholic Church promoting marriage based on consensus, the rise of labour markets, and specific institutions concerning property transfers between generations that encouraged wage labour by women. It resulted in a demographic regime embedded in a highly commercial environment, in which households interacted frequently with labour, capital, and commodity markets.We also discuss possible long-term consequences for human capital formation and institution building.
+
+#### <a href= "https://www.aeaweb.org/articles?id=10.1257/jep.32.1.3"> The Economic Implications of Housing Supply </a>
+##### Edward Glaeser and Joseph Gyourko
+
+<b> Abstract: </b> In this essay, we review the basic economics of housing supply and the functioning of US housing markets to better understand the distribution of home prices, household wealth, and the spatial distribution of people across markets. We employ a cost-based approach to gauge whether a housing market is delivering appropriately priced units. Specifically, we investigate whether market prices (roughly) equal the costs of producing the housing unit. If so, the market is well-functioning in the sense that it efficiently delivers housing units at their production cost. The gap between price and production cost can be understood as a regulatory tax. The available evidence suggests, but does not definitively prove, that the implicit tax on development created by housing regulations is higher in many areas than any reasonable negative externalities associated with new construction. We discuss two main effects of developments in housing prices: on patterns of household wealth and on the incentives for relocation to high-wage, high-productivity areas. Finally, we turn to policy implications.
