@@ -33,6 +33,46 @@ based on seniority. This paper studies the effects of a reform that gave school 
 
 <b> Abstract: </b> Which mechanisms are simple to play? When is it easy for participants to see that a mechanism is incentive-compatible? I will start by explaining how and why economists came to ask these questions. Then I will discuss three recent answers, that capture different aspects of what makes a mechanism simple.
 
+#### <a href= "https://www.aeaweb.org/articles?id=10.1257/aer.20121637"> Trafficking Networks and the Mexican Drug War </a>
+##### Melissa Dell
+
+<b> Abstract: </b> Drug trade-related violence has escalated dramatically in Mexico since 2007, and recent years have also witnessed large-scale efforts to combat trafficking, spearheaded by Mexico's conservative PAN party. This study examines the direct and spillover effects of Mexican policy toward the drug trade. Regression discontinuity estimates show that drug-related violence increases substantially after close elections of PAN mayors. Empirical evidence suggests that the violence reflects rival traffickers' attempts to usurp territories after crackdowns have weakened incumbent criminals. Moreover, the study uses a network model of trafficking routes to show that PAN victories divert drug traffic, increasing violence along alternative drug routes. (JEL D72, D85, K42, O17, Z13)
+
+#### <a href= "https://www.nber.org/system/files/working_papers/w28852/w28852.pdf"> Beyond Health: Non-Health Risk and the Value of Disability Insurance </a>
+##### Manasi Deshpande & Lee Lockwood
+
+<b> Abstract: </b> The public debate over disability insurance has centered on concerns about individuals without severe health conditions receiving benefits. We go beyond health risk alone to quantify the overall insurance value of U.S. disability programs, including value from insuring non-health risk. We find that disability recipients, especially those with less-severe health conditions, are much more likely to have experienced a wide variety of non-health shocks than non-recipients. Selection into disability receipt on the basis of non-health shocks is so strong among individuals with less-severe health conditions that by many measures less-severe recipients are worse off than more-severe recipients. As a result, under baseline assumptions, benefits to less-severe recipients have an annual surplus value (insurance benefit less efficiency cost) over cost-equivalent tax cuts of $7,700 per recipient, about three-fourths that of benefits to more-severe recipients ($9,900). Insurance against non-health risk accounts for about one-half of the value of U.S. disability programs.
+
+#### <a href= "https://www.jstor.org/stable/2951620"> Trafficking Networks and the Mexican Drug War </a>
+##### Guido W. Imbens and Joshua D. Angrist
+
+<b> Abstract: </b> Random assignment of treatment and concurrent data collection on treatment and control groups is the norm in medical evaluation research. In contrast, the use of random assignment to evaluate social programs remains controversial. Following criticism of parametric evaluation models (e.g., Lalonde (1986)), econometric research has been geared towards establishing conditions that guarantee nonparametric identification of treatment effects in observational studies, i.e. identification without relying on functional form restrictions or distributional assumptions. The focus has been on identification of average treatment effects in a population of interest, or on the average effect for the subpopulation that is treated. The conditions required to nonparametrically identify these parameters can be restrictive, however, and the derived identification results fragile. In particular, results in Chamberlain (19861, Manski (1990),Heckman (1990),and Angrist and Imbens (1991) require that there be some subpopulation for whom the probability of treatment is zero, at least in the limit. The purpose of this paper is to show that even when there is no subpopulation available for whom the probability of treatment is zero, we can still identify an average treatment effect of interest under mild restrictions satisfied in a wide range of models and circumstances. We call this a local average treatment effect (LATE). Examples of problems where the local average treatment effect is identified include latent index models and evaluations based on natural experiments such as those studied by Angrist (1990) and Angrist and Krueger (1991). LATE is the average treatment effect for individuals whose treatment status is influenced by changing an exogenous regressor that satisfies an exclusion restriction.
+
+#### <a href= "https://economics.mit.edu/sites/default/files/publications/banerjee92herd.pdf"> A Simple Model of Herd Behavior </a>
+##### Abhijit V. Banerjee
+
+<b> Abstract: </b> We analyze a sequential decision model in which each decision maker looks at the decisions made by previous decision makers in taking her own decision. This is rational for her because these other decision makers may have some information that is important for her. We then show that the decision rules that are chosen by optimizing individuals will be characterized by herd behavior; i.e., people will be doing what others are doing rather than using their information. We then show that the resulting equilibrium is inefficient.
+
+#### <a href= "https://onlinelibrary.wiley.com/doi/abs/10.3982/ECTA17082"> Making a NARCO: Childhood Exposure to Illegal Labor Markets and Criminal Life Paths </a>
+##### Maria Micaela Sviatschi
+
+<b> Abstract: </b> This paper provides evidence that exposure to illegal labor markets during childhood leads to the formation of industry-specific human capital at an early age, putting children on a criminal life path. Using the timing of U.S. antidrug policies, I show that when the return to illegal activities increases in coca suitable areas in Peru, parents increase the use of child labor for coca farming, putting children on a criminal life path. Using administrative records, I show that affected children are about 30% more likely to be incarcerated for violent and drug-related crimes as adults. No effect in criminality is found for individuals that grow up working in places where the coca produced goes primarily to the legal sector, suggesting that it is the accumulation of human capital specific to the illegal industry that fosters criminal careers. However, the rollout of a conditional cash transfer program that encourages schooling mitigates the effects of exposure to illegal industries, providing further evidence on the mechanisms.
+
+#### <a href= "https://www.aeaweb.org/articles?id=10.1257/aer.96.3.847"> Long-Term Educational Consequences of Secondary School Vouchers: Evidence from Administrative Records in Colombia </a>
+##### Joshua Angrist, Eric Bettinger, Michael Kremer
+
+<b> Abstract: </b> Colombia's PACES program provided over 125,000 poor children with vouchers that covered the cost of private secondary school. The vouchers were renewable annually conditional on adequate academic progress. Since many vouchers were assigned by lottery, program effects can reliably be assessed by comparing lottery winners and losers. Estimates using administrative records suggest the PACES program increases secondary school completion rates by 15 to 20 percent. Correcting for the greater percentage of lottery winners taking college admissions tests, the program increased test scores by two-tenths of a standard deviation in the distribution of potential test scores.
+
+#### <a href= "https://www.aeaweb.org/articles?id=10.1257/aer.20201540"> Spreading Gangs: Exporting US Criminal Capital to El Salvador </a>
+##### Maria Micaela Sviatschi
+
+<b> Abstract: </b> This paper shows how deportation policies can backfire by disseminating not only ideas between countries but also criminal networks, spreading gangs, in this case, across El Salvador, and spurring migration back to the United States. In 1996, the US Illegal Immigration Responsibility Act increased the number of criminal deportations. In particular, the members of large Salvadoran gangs developed in Los Angeles were sent back to El Salvador. Using variation in criminal deportations over time and across cohorts, combined with geographical variation in US gangs' location, I find that these deportations led to an increase in homicide rates and gang activity, as well as an increase in gang recruitment and migration of children.
+
+#### <a href= "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4148813"> Gang Rule: Understanding and Countering Criminal Governance </a>
+##### Chistopher Blattman, Gustavo Duncan, Benjamin Lessing, and Santiago Tobon
+
+<b> Abstract: </b> Criminal groups govern millions worldwide. Even in strong states, gangs resolve disputes and provide security. Why do these duopolies of coercion emerge? In many cases, gangs fill vacuums of official order. If so, increasing state presence should crowd out criminal governance. In this paper, however, we show that state and gang rule are sometimes complements. In particular, gangs can deter state predation by keeping neighborhoods orderly and loyal. If true, increasing state presence could increase gang rule. We investigate in Medellín, Colombia. Criminal leaders told us they rule mainly to protect drug rents. We test gang responses to state presence using a geographic discontinuity. Internal border changes in 1987 assigned some blocks to be exogenously closer to state security for three decades. Gangs responded to closer state presence by increasing governance services, but primarily in neighborhoods with the greatest potential drug rents. This suggests new strategies for countering criminal governance.
+
 #### <a href= "http://www.math.huji.ac.il/raumann/pdf/Agreeing%20to%20Disagree.pdf"> Agree to Disagree </a>
 ##### Robert J. Aumann
 
@@ -40,6 +80,12 @@ based on seniority. This paper studies the effects of a reform that gave school 
 
 #### <a href= "https://pubs.aeaweb.org/doi/pdfplus/10.1257/app.20160089"> Social Media and Corruption </a>
 ##### Ruben Enikolopov, Maria Petrova, and Konstantin Sonin
+
+<b> Abstract: </b> Does new media promote accountability in nondemocratic countries, where offline media is often suppressed? We show that blog posts, which exposed corruption in Russian state-controlled companies, had
+a negative causal impact on their market returns. For identification, we exploit the precise timing of blog posts by looking at within-day results with company-day fixed effects. Furthermore, we show that the posts are ultimately associated with higher management turnover and less minority shareholder conflicts. Taken together, our results suggest that social media can discipline corruption even in a country with limited political competition and heavily censored traditional media. 
+
+#### <a href= "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4778120"> Social Media and Job Market Success: A Field Experiment on Twitter </a>
+##### Jingyi Qiu, Yan Chen, Alain Cohn, and Alvin Roth
 
 <b> Abstract: </b> Does new media promote accountability in nondemocratic countries, where offline media is often suppressed? We show that blog posts, which exposed corruption in Russian state-controlled companies, had
 a negative causal impact on their market returns. For identification, we exploit the precise timing of blog posts by looking at within-day results with company-day fixed effects. Furthermore, we show that the posts are ultimately associated with higher management turnover and less minority shareholder conflicts. Taken together, our results suggest that social media can discipline corruption even in a country with limited political competition and heavily censored traditional media. 
