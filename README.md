@@ -8,10 +8,10 @@ To vote on a paper for next week please visit this link: <a href="https://forms.
 
 ## Current Paper:
 
-#### <a href="https://web.stanford.edu/~gentzkow/research/BayesianPersuasion.pdf">Bayesian Persuasion</a>
-##### Emir Kamenica and Matthew Gentzkow
+#### <a href= "https://onlinelibrary.wiley.com/doi/abs/10.3982/ECTA17082"> Making a NARCO: Childhood Exposure to Illegal Labor Markets and Criminal Life Paths </a>
+##### Maria Micaela Sviatschi
 
-<b> Abstract: </b> When is it possible for one person to persuade another to change her action? We consider a symmetric information model where a sender chooses a signal to reveal to a receiver, who then takes a noncon- tractible action that affects the welfare of both players. We derive necessary and sufficient conditions for the existence of a signal that strictly benefits the sender. We characterize sender-optimal signals. We examine comparative statics with respect to the alignment of the sender’s and the receiver’s preferences. Finally, we apply our results to persuasion by litigators, lobbyists, and salespeople.
+<b> Abstract: </b> This paper provides evidence that exposure to illegal labor markets during childhood leads to the formation of industry-specific human capital at an early age, putting children on a criminal life path. Using the timing of U.S. antidrug policies, I show that when the return to illegal activities increases in coca suitable areas in Peru, parents increase the use of child labor for coca farming, putting children on a criminal life path. Using administrative records, I show that affected children are about 30% more likely to be incarcerated for violent and drug-related crimes as adults. No effect in criminality is found for individuals that grow up working in places where the coca produced goes primarily to the legal sector, suggesting that it is the accumulation of human capital specific to the illegal industry that fosters criminal careers. However, the rollout of a conditional cash transfer program that encourages schooling mitigates the effects of exposure to illegal industries, providing further evidence on the mechanisms.
 
 ## Upcoming Papers:
 
@@ -25,11 +25,6 @@ based on seniority. This paper studies the effects of a reform that gave school 
 ##### John Eric Humphries, Winnie van Dijk, Aurelie Ouss, Kamelia Stavreva, and Megan Stevenson
 
 <b> Abstract: </b> We study the effects of conviction and incarceration on recidivism using quasi-random judge assignment. We extend the typical binary-treatment framework to a setting with multiple treatments, and outline a set of assumptions under which standard 2SLS regressions recover causal and margin-specific treatment effects. Under these assumptions, 2SLS regressions applied to data on felony cases in Virginia imply that conviction leads to a large and long-lasting increase in recidivism relative to dismissal, consistent with a criminogenic effect of a criminal record. In contrast, incarceration reduces recidivism, but only in the short run. The assumptions we outline could be considered restrictive in the random judge framework, ruling out some reasonable models of judge decision-making. Indeed, a key assumption is empirically rejected in our data. Nevertheless, after deriving an expression for the resulting asymptotic bias, we argue that the failure of this assumption is unlikely to overturn our qualitative conclusions. Finally, we propose and implement alternative identification strategies. Consistent with our characterization of the bias, these analyses yield estimates qualitatively similar to those based on the 2SLS estimates. Taken together, our results suggest that conviction is an important and potentially overlooked driver of recidivism, while incarceration mainly has shorter-term incapacitation effects.
-
-#### <a href= "https://onlinelibrary.wiley.com/doi/abs/10.3982/ECTA17082"> Making a NARCO: Childhood Exposure to Illegal Labor Markets and Criminal Life Paths </a>
-##### Maria Micaela Sviatschi
-
-<b> Abstract: </b> This paper provides evidence that exposure to illegal labor markets during childhood leads to the formation of industry-specific human capital at an early age, putting children on a criminal life path. Using the timing of U.S. antidrug policies, I show that when the return to illegal activities increases in coca suitable areas in Peru, parents increase the use of child labor for coca farming, putting children on a criminal life path. Using administrative records, I show that affected children are about 30% more likely to be incarcerated for violent and drug-related crimes as adults. No effect in criminality is found for individuals that grow up working in places where the coca produced goes primarily to the legal sector, suggesting that it is the accumulation of human capital specific to the illegal industry that fosters criminal careers. However, the rollout of a conditional cash transfer program that encourages schooling mitigates the effects of exposure to illegal industries, providing further evidence on the mechanisms.
 
 #### <a href= "https://www.aeaweb.org/articles?id=10.1257/aer.96.3.847"> Long-Term Educational Consequences of Secondary School Vouchers: Evidence from Administrative Records in Colombia </a>
 ##### Joshua Angrist, Eric Bettinger, Michael Kremer
@@ -62,6 +57,11 @@ exchange, we exploit discontinuities in the subsidy schedule to estimate willing
 half of their own expected costs that they impose on the insurer. As a result, we estimate that take-up will be highly incomplete even with generous subsidies. If enrollee premiums were 25 percent of insurers’ average costs, at most half of potential enrollees would buy insurance; even premiums subsidized to 10 percent of average costs would still leave at least 20 percent uninsured. We briefly consider potential explanations for these findings and their normative implications
 
 ## Previous Papers:
+
+#### <a href="https://web.stanford.edu/~gentzkow/research/BayesianPersuasion.pdf">Bayesian Persuasion</a>
+##### Emir Kamenica and Matthew Gentzkow
+
+<b> Abstract: </b> When is it possible for one person to persuade another to change her action? We consider a symmetric information model where a sender chooses a signal to reveal to a receiver, who then takes a noncon- tractible action that affects the welfare of both players. We derive necessary and sufficient conditions for the existence of a signal that strictly benefits the sender. We characterize sender-optimal signals. We examine comparative statics with respect to the alignment of the sender’s and the receiver’s preferences. Finally, we apply our results to persuasion by litigators, lobbyists, and salespeople.
 
 #### <a href= "https://www.aeaweb.org/articles?id=10.1257/aer.20181289"> The Effects of Rent Control Expansion on Tenants, Landlords, and Inequality: Evidence from San Francisco </a>
 ##### Rebecca Diamond, Tim McQuade, and Franklin Qian
