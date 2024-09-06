@@ -8,10 +8,11 @@ To vote on a paper for next week please visit this link: <a href="https://forms.
 
 ## Current Paper:
 
-#### <a href= "https://onlinelibrary.wiley.com/doi/abs/10.3982/ECTA17082"> Making a NARCO: Childhood Exposure to Illegal Labor Markets and Criminal Life Paths </a>
-##### Maria Micaela Sviatschi
+#### <a href= "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4778120"> Social Media and Job Market Success: A Field Experiment on Twitter </a>
+##### Jingyi Qiu, Yan Chen, Alain Cohn, and Alvin Roth
 
-<b> Abstract: </b> This paper provides evidence that exposure to illegal labor markets during childhood leads to the formation of industry-specific human capital at an early age, putting children on a criminal life path. Using the timing of U.S. antidrug policies, I show that when the return to illegal activities increases in coca suitable areas in Peru, parents increase the use of child labor for coca farming, putting children on a criminal life path. Using administrative records, I show that affected children are about 30% more likely to be incarcerated for violent and drug-related crimes as adults. No effect in criminality is found for individuals that grow up working in places where the coca produced goes primarily to the legal sector, suggesting that it is the accumulation of human capital specific to the illegal industry that fosters criminal careers. However, the rollout of a conditional cash transfer program that encourages schooling mitigates the effects of exposure to illegal industries, providing further evidence on the mechanisms.
+<b> Abstract: </b> Does new media promote accountability in nondemocratic countries, where offline media is often suppressed? We show that blog posts, which exposed corruption in Russian state-controlled companies, had
+a negative causal impact on their market returns. For identification, we exploit the precise timing of blog posts by looking at within-day results with company-day fixed effects. Furthermore, we show that the posts are ultimately associated with higher management turnover and less minority shareholder conflicts. Taken together, our results suggest that social media can discipline corruption even in a country with limited political competition and heavily censored traditional media. 
 
 ## Upcoming Papers:
 
@@ -36,12 +37,6 @@ based on seniority. This paper studies the effects of a reform that gave school 
 
 <b> Abstract: </b> Criminal groups govern millions worldwide. Even in strong states, gangs resolve disputes and provide security. Why do these duopolies of coercion emerge? In many cases, gangs fill vacuums of official order. If so, increasing state presence should crowd out criminal governance. In this paper, however, we show that state and gang rule are sometimes complements. In particular, gangs can deter state predation by keeping neighborhoods orderly and loyal. If true, increasing state presence could increase gang rule. We investigate in Medellín, Colombia. Criminal leaders told us they rule mainly to protect drug rents. We test gang responses to state presence using a geographic discontinuity. Internal border changes in 1987 assigned some blocks to be exogenously closer to state security for three decades. Gangs responded to closer state presence by increasing governance services, but primarily in neighborhoods with the greatest potential drug rents. This suggests new strategies for countering criminal governance.
 
-#### <a href= "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4778120"> Social Media and Job Market Success: A Field Experiment on Twitter </a>
-##### Jingyi Qiu, Yan Chen, Alain Cohn, and Alvin Roth
-
-<b> Abstract: </b> Does new media promote accountability in nondemocratic countries, where offline media is often suppressed? We show that blog posts, which exposed corruption in Russian state-controlled companies, had
-a negative causal impact on their market returns. For identification, we exploit the precise timing of blog posts by looking at within-day results with company-day fixed effects. Furthermore, we show that the posts are ultimately associated with higher management turnover and less minority shareholder conflicts. Taken together, our results suggest that social media can discipline corruption even in a country with limited political competition and heavily censored traditional media. 
-
 ## Proposed Papers:
 
 #### <a href= "https://www.nber.org/system/files/working_papers/w28852/w28852.pdf"> Beyond Health: Non-Health Risk and the Value of Disability Insurance </a>
@@ -57,6 +52,12 @@ exchange, we exploit discontinuities in the subsidy schedule to estimate willing
 half of their own expected costs that they impose on the insurer. As a result, we estimate that take-up will be highly incomplete even with generous subsidies. If enrollee premiums were 25 percent of insurers’ average costs, at most half of potential enrollees would buy insurance; even premiums subsidized to 10 percent of average costs would still leave at least 20 percent uninsured. We briefly consider potential explanations for these findings and their normative implications
 
 ## Previous Papers:
+
+#### <a href= "https://onlinelibrary.wiley.com/doi/abs/10.3982/ECTA17082"> Making a NARCO: Childhood Exposure to Illegal Labor Markets and Criminal Life Paths </a>
+##### Maria Micaela Sviatschi
+
+<b> Abstract: </b> This paper provides evidence that exposure to illegal labor markets during childhood leads to the formation of industry-specific human capital at an early age, putting children on a criminal life path. Using the timing of U.S. antidrug policies, I show that when the return to illegal activities increases in coca suitable areas in Peru, parents increase the use of child labor for coca farming, putting children on a criminal life path. Using administrative records, I show that affected children are about 30% more likely to be incarcerated for violent and drug-related crimes as adults. No effect in criminality is found for individuals that grow up working in places where the coca produced goes primarily to the legal sector, suggesting that it is the accumulation of human capital specific to the illegal industry that fosters criminal careers. However, the rollout of a conditional cash transfer program that encourages schooling mitigates the effects of exposure to illegal industries, providing further evidence on the mechanisms.
+
 
 #### <a href="https://web.stanford.edu/~gentzkow/research/BayesianPersuasion.pdf">Bayesian Persuasion</a>
 ##### Emir Kamenica and Matthew Gentzkow
