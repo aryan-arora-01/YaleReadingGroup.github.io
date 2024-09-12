@@ -8,7 +8,7 @@ To vote on a paper for next week please visit this link: <a href="https://forms.
 
 ## Current Paper:
 
-#### <a href= "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4148813"> Gang Rule: Understanding and Countering Criminal Governance </a>
+#### <a href= "[https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4148813](https://www.restud.com/wp-content/uploads/2024/07/MS-33300-2.pdf)"> Gang Rule: Understanding and Countering Criminal Governance </a>
 ##### Chistopher Blattman, Gustavo Duncan, Benjamin Lessing, and Santiago Tobon
 
 <b> Abstract: </b> Criminal groups govern millions worldwide. Even in strong states, gangs resolve disputes and provide security. Why do these duopolies of coercion emerge? In many cases, gangs fill vacuums of official order. If so, increasing state presence should crowd out criminal governance. In this paper, however, we show that state and gang rule are sometimes complements. In particular, gangs can deter state predation by keeping neighborhoods orderly and loyal. If true, increasing state presence could increase gang rule. We investigate in Medellín, Colombia. Criminal leaders told us they rule mainly to protect drug rents. We test gang responses to state presence using a geographic discontinuity. Internal border changes in 1987 assigned some blocks to be exogenously closer to state security for three decades. Gangs responded to closer state presence by increasing governance services, but primarily in neighborhoods with the greatest potential drug rents. This suggests new strategies for countering criminal governance.
