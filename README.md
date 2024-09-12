@@ -8,11 +8,10 @@ To vote on a paper for next week please visit this link: <a href="https://forms.
 
 ## Current Paper:
 
-#### <a href= "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4778120"> Social Media and Job Market Success: A Field Experiment on Twitter </a>
-##### Jingyi Qiu, Yan Chen, Alain Cohn, and Alvin Roth
+#### <a href= "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4148813"> Gang Rule: Understanding and Countering Criminal Governance </a>
+##### Chistopher Blattman, Gustavo Duncan, Benjamin Lessing, and Santiago Tobon
 
-<b> Abstract: </b> Does new media promote accountability in nondemocratic countries, where offline media is often suppressed? We show that blog posts, which exposed corruption in Russian state-controlled companies, had
-a negative causal impact on their market returns. For identification, we exploit the precise timing of blog posts by looking at within-day results with company-day fixed effects. Furthermore, we show that the posts are ultimately associated with higher management turnover and less minority shareholder conflicts. Taken together, our results suggest that social media can discipline corruption even in a country with limited political competition and heavily censored traditional media. 
+<b> Abstract: </b> Criminal groups govern millions worldwide. Even in strong states, gangs resolve disputes and provide security. Why do these duopolies of coercion emerge? In many cases, gangs fill vacuums of official order. If so, increasing state presence should crowd out criminal governance. In this paper, however, we show that state and gang rule are sometimes complements. In particular, gangs can deter state predation by keeping neighborhoods orderly and loyal. If true, increasing state presence could increase gang rule. We investigate in Medellín, Colombia. Criminal leaders told us they rule mainly to protect drug rents. We test gang responses to state presence using a geographic discontinuity. Internal border changes in 1987 assigned some blocks to be exogenously closer to state security for three decades. Gangs responded to closer state presence by increasing governance services, but primarily in neighborhoods with the greatest potential drug rents. This suggests new strategies for countering criminal governance.
 
 ## Upcoming Papers:
 
@@ -32,11 +31,6 @@ based on seniority. This paper studies the effects of a reform that gave school 
 
 <b> Abstract: </b> Colombia's PACES program provided over 125,000 poor children with vouchers that covered the cost of private secondary school. The vouchers were renewable annually conditional on adequate academic progress. Since many vouchers were assigned by lottery, program effects can reliably be assessed by comparing lottery winners and losers. Estimates using administrative records suggest the PACES program increases secondary school completion rates by 15 to 20 percent. Correcting for the greater percentage of lottery winners taking college admissions tests, the program increased test scores by two-tenths of a standard deviation in the distribution of potential test scores.
 
-#### <a href= "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4148813"> Gang Rule: Understanding and Countering Criminal Governance </a>
-##### Chistopher Blattman, Gustavo Duncan, Benjamin Lessing, and Santiago Tobon
-
-<b> Abstract: </b> Criminal groups govern millions worldwide. Even in strong states, gangs resolve disputes and provide security. Why do these duopolies of coercion emerge? In many cases, gangs fill vacuums of official order. If so, increasing state presence should crowd out criminal governance. In this paper, however, we show that state and gang rule are sometimes complements. In particular, gangs can deter state predation by keeping neighborhoods orderly and loyal. If true, increasing state presence could increase gang rule. We investigate in Medellín, Colombia. Criminal leaders told us they rule mainly to protect drug rents. We test gang responses to state presence using a geographic discontinuity. Internal border changes in 1987 assigned some blocks to be exogenously closer to state security for three decades. Gangs responded to closer state presence by increasing governance services, but primarily in neighborhoods with the greatest potential drug rents. This suggests new strategies for countering criminal governance.
-
 ## Proposed Papers:
 
 #### <a href= "https://www.nber.org/system/files/working_papers/w28852/w28852.pdf"> Beyond Health: Non-Health Risk and the Value of Disability Insurance </a>
@@ -52,6 +46,13 @@ exchange, we exploit discontinuities in the subsidy schedule to estimate willing
 half of their own expected costs that they impose on the insurer. As a result, we estimate that take-up will be highly incomplete even with generous subsidies. If enrollee premiums were 25 percent of insurers’ average costs, at most half of potential enrollees would buy insurance; even premiums subsidized to 10 percent of average costs would still leave at least 20 percent uninsured. We briefly consider potential explanations for these findings and their normative implications
 
 ## Previous Papers:
+
+#### <a href= "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4778120"> Social Media and Job Market Success: A Field Experiment on Twitter </a>
+##### Jingyi Qiu, Yan Chen, Alain Cohn, and Alvin Roth
+
+<b> Abstract: </b> Does new media promote accountability in nondemocratic countries, where offline media is often suppressed? We show that blog posts, which exposed corruption in Russian state-controlled companies, had
+a negative causal impact on their market returns. For identification, we exploit the precise timing of blog posts by looking at within-day results with company-day fixed effects. Furthermore, we show that the posts are ultimately associated with higher management turnover and less minority shareholder conflicts. Taken together, our results suggest that social media can discipline corruption even in a country with limited political competition and heavily censored traditional media. 
+
 
 #### <a href= "https://onlinelibrary.wiley.com/doi/abs/10.3982/ECTA17082"> Making a NARCO: Childhood Exposure to Illegal Labor Markets and Criminal Life Paths </a>
 ##### Maria Micaela Sviatschi
