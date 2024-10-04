@@ -8,10 +8,10 @@ To vote on a paper for next week please visit this link: <a href="https://forms.
 
 ## Current Paper:
 
-#### <a href= "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4507597"> Conviction, Incarceration, and Recidivism: Understanding the Revolving Door </a>
-##### John Eric Humphries, Winnie van Dijk, Aurelie Ouss, Kamelia Stavreva, and Megan Stevenson
+#### <a href= "https://www.aeaweb.org/articles?id=10.1257/aer.96.3.847"> Long-Term Educational Consequences of Secondary School Vouchers: Evidence from Administrative Records in Colombia </a>
+##### Joshua Angrist, Eric Bettinger, Michael Kremer
 
-<b> Abstract: </b> We study the effects of conviction and incarceration on recidivism using quasi-random judge assignment. We extend the typical binary-treatment framework to a setting with multiple treatments, and outline a set of assumptions under which standard 2SLS regressions recover causal and margin-specific treatment effects. Under these assumptions, 2SLS regressions applied to data on felony cases in Virginia imply that conviction leads to a large and long-lasting increase in recidivism relative to dismissal, consistent with a criminogenic effect of a criminal record. In contrast, incarceration reduces recidivism, but only in the short run. The assumptions we outline could be considered restrictive in the random judge framework, ruling out some reasonable models of judge decision-making. Indeed, a key assumption is empirically rejected in our data. Nevertheless, after deriving an expression for the resulting asymptotic bias, we argue that the failure of this assumption is unlikely to overturn our qualitative conclusions. Finally, we propose and implement alternative identification strategies. Consistent with our characterization of the bias, these analyses yield estimates qualitatively similar to those based on the 2SLS estimates. Taken together, our results suggest that conviction is an important and potentially overlooked driver of recidivism, while incarceration mainly has shorter-term incapacitation effects.
+<b> Abstract: </b> Colombia's PACES program provided over 125,000 poor children with vouchers that covered the cost of private secondary school. The vouchers were renewable annually conditional on adequate academic progress. Since many vouchers were assigned by lottery, program effects can reliably be assessed by comparing lottery winners and losers. Estimates using administrative records suggest the PACES program increases secondary school completion rates by 15 to 20 percent. Correcting for the greater percentage of lottery winners taking college admissions tests, the program increased test scores by two-tenths of a standard deviation in the distribution of potential test scores.
 
 ## Upcoming Papers:
 
@@ -20,11 +20,6 @@ To vote on a paper for next week please visit this link: <a href="https://forms.
 
 <b> Abstract: </b> Compensation of most US public school teachers is rigid and solely
 based on seniority. This paper studies the effects of a reform that gave school districts in Wisconsin full autonomy to redesign teacher pay schemes. Following the reform some districts switched to flexible compensation. Using the expiration of preexisting collective bargaining agreements as a source of exogenous variation in the timing of changes in pay, I show that the introduction of flexible pay raised salaries of high-quality teachers, increased teacher quality (due to the arrival of high-quality teachers from other districts and increased effort), and improved student achievement.
-
-#### <a href= "https://www.aeaweb.org/articles?id=10.1257/aer.96.3.847"> Long-Term Educational Consequences of Secondary School Vouchers: Evidence from Administrative Records in Colombia </a>
-##### Joshua Angrist, Eric Bettinger, Michael Kremer
-
-<b> Abstract: </b> Colombia's PACES program provided over 125,000 poor children with vouchers that covered the cost of private secondary school. The vouchers were renewable annually conditional on adequate academic progress. Since many vouchers were assigned by lottery, program effects can reliably be assessed by comparing lottery winners and losers. Estimates using administrative records suggest the PACES program increases secondary school completion rates by 15 to 20 percent. Correcting for the greater percentage of lottery winners taking college admissions tests, the program increased test scores by two-tenths of a standard deviation in the distribution of potential test scores.
 
 ## Proposed Papers:
 
@@ -41,6 +36,11 @@ exchange, we exploit discontinuities in the subsidy schedule to estimate willing
 half of their own expected costs that they impose on the insurer. As a result, we estimate that take-up will be highly incomplete even with generous subsidies. If enrollee premiums were 25 percent of insurers’ average costs, at most half of potential enrollees would buy insurance; even premiums subsidized to 10 percent of average costs would still leave at least 20 percent uninsured. We briefly consider potential explanations for these findings and their normative implications
 
 ## Previous Papers:
+
+#### <a href= "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4507597"> Conviction, Incarceration, and Recidivism: Understanding the Revolving Door </a>
+##### John Eric Humphries, Winnie van Dijk, Aurelie Ouss, Kamelia Stavreva, and Megan Stevenson
+
+<b> Abstract: </b> We study the effects of conviction and incarceration on recidivism using quasi-random judge assignment. We extend the typical binary-treatment framework to a setting with multiple treatments, and outline a set of assumptions under which standard 2SLS regressions recover causal and margin-specific treatment effects. Under these assumptions, 2SLS regressions applied to data on felony cases in Virginia imply that conviction leads to a large and long-lasting increase in recidivism relative to dismissal, consistent with a criminogenic effect of a criminal record. In contrast, incarceration reduces recidivism, but only in the short run. The assumptions we outline could be considered restrictive in the random judge framework, ruling out some reasonable models of judge decision-making. Indeed, a key assumption is empirically rejected in our data. Nevertheless, after deriving an expression for the resulting asymptotic bias, we argue that the failure of this assumption is unlikely to overturn our qualitative conclusions. Finally, we propose and implement alternative identification strategies. Consistent with our characterization of the bias, these analyses yield estimates qualitatively similar to those based on the 2SLS estimates. Taken together, our results suggest that conviction is an important and potentially overlooked driver of recidivism, while incarceration mainly has shorter-term incapacitation effects.
 
 #### <a href= "[https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4148813](https://www.restud.com/wp-content/uploads/2024/07/MS-33300-2.pdf)"> Gang Rule: Understanding and Countering Criminal Governance </a>
 ##### Chistopher Blattman, Gustavo Duncan, Benjamin Lessing, and Santiago Tobon
