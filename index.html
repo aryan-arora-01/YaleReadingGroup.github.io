@@ -15,61 +15,61 @@
 
     <style type="text/css">
         body {
-            font-family: 'Source Code Pro', monospace; /* Set to Source Code Pro */
-            background-color: #fefefe; /* Light background */
-            color: #333; /* Dark text for contrast */
+            font-family: 'Source Code Pro', monospace;
+            background-color: #fefefe;
+            color: #333;
             line-height: 1.8;
             margin: 0;
             padding: 20px;
             font-size: 12px;
-            max-width: 800px; /* Keeps the content narrow and focused */
+            max-width: 800px;
             margin-left: auto;
             margin-right: auto;
         }
         .name {
-            font-size: 48px; /* Larger font size for the title */
-            text-align: center; /* Center the title */
+            font-size: 48px;
+            text-align: center;
             margin-top: 20px;
         }
         .nav {
-            text-align: center; /* Center the navigation */
+            display: flex; /* Use flexbox for alignment */
+            justify-content: center; /* Center the navigation links */
             margin-bottom: 30px;
         }
         .nav a {
-            text-decoration: none; /* Remove underline from links */
+            text-decoration: none;
             margin: 0 10px; /* Space between links */
         }
         .nav a.red {
-            color: red; /* Set color to red for specific links */
+            color: red;
         }
         .container {
-            display: flex; /* Use flexbox for layout */
-            align-items: flex-start; /* Align items at the start vertically */
-            flex-direction: column; /* Stack items vertically in this container */
+            display: flex;
+            flex-direction: column;
+            align-items: center; /* Center items in the container */
             margin-bottom: 30px;
-            text-align: center; /* Center titles within the container */
+            text-align: center;
         }
         .content-container {
-            display: flex; /* Use flexbox for content alignment */
-            justify-content: flex-start; /* Align items to the start horizontally */
-            align-items: flex-start; /* Align items at the start vertically */
+            display: flex;
+            justify-content: flex-start;
+            align-items: flex-start;
         }
         .intro {
-            max-width: 600px; /* Set a reasonable width for the text */
-            margin: 0 20px; /* Space around the intro text */
+            max-width: 600px;
+            margin: 0 20px;
         }
         .intro p {
-            text-align: justify; /* Justify the text */
+            text-align: justify;
         }
         hr {
             border: none;
-            border-top: 1px solid #ddd; /* Subtle border on the top */
-            margin: 20px 0; /* Margin for spacing */
+            border-top: 1px solid #ddd;
+            margin: 20px 0;
         }
         
-        /* New style for h4 elements with class red */
         h4.red {
-            color: red; /* Set color to red for h4 elements with class red */
+            color: red;
         }
     </style>
 </head>
@@ -78,7 +78,7 @@
         <p class="name"><a href="https://aryan-arora-01.github.io/YaleReadingGroup.github.io/">Yale Predoc Reading Group</a></p>
         <p class="nav">
             <a class="red" href="https://forms.office.com/r/S4EVZz7kC9">Suggest a Paper</a>
-            /
+            <span>/</span>
             <a class="red" href="https://forms.office.com/r/evFZ4CVa8v">Vote on Papers</a>
         </p>
     </div>
